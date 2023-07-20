@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saiteja-muthyala
+- 👋 Hi, I’m @MUTHYALA SAITEJA
 - 👀 I’m interested in ... programming and web development
 - 🌱 I’m currently learning ... web programming
 - 💞️ I’m looking to collaborate on ...html and css
