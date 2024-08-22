@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MUTHYALA SAITEJA
-- 👀 I’m interested in ... programming and web development
+- 👀 I’m interested in ... programming, web development, and Deep learning.
 - 🌱 I’m currently learning ... web programming
 - 💞️ I’m looking to collaborate on ...html and CSS
 - 📫 Reach me via +91 8179172486
